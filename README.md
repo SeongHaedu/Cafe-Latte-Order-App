@@ -3,7 +3,6 @@
 <p align="center">
     <br>
     <img width="1010" alt="Home" src="https://user-images.githubusercontent.com/43167769/123214006-ac758a80-d501-11eb-9d45-27d81fd59560.png">
-
     <br>
 <p>
 <p align="center">
@@ -17,12 +16,7 @@
 
 # Demonstration App
 
-
-
 https://user-images.githubusercontent.com/43167769/123214021-b1d2d500-d501-11eb-9fd2-93f9d1e4a0f5.mov
-
-
-
 
 # Author
  
