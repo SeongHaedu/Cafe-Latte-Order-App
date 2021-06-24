@@ -1,0 +1,35 @@
+[
+    {
+        "id": "001",
+        "name": "Flower Cafe",
+        "phoneNumber": "090-1111-1111",
+        "address":"Japan, Osaka, Osaka City, Tennojiku, 1-1-1",
+        "imageName": "FlowerCafe",
+        "coordinates": {
+            "latitude": 34.646849,
+            "longitude": 135.514831,
+        },
+    },
+    {
+        "id": "002",
+        "name": "Nana Cafe",
+        "phoneNumber": "090-2222-2222",
+        "address":"Japan, Kyoto, Kyoto City, Higashiyamaku, 2-2-2",
+        "imageName": "NanaCafe",
+        "coordinates": {
+            "latitude": 34.994061,
+            "longitude": 135.770019,
+        },
+    },
+    {
+        "id": "003",
+        "name": "Brown Coffee",
+        "phoneNumber": "090-3333-3333",
+        "address":"Japan, Hyogo, Kobe City, Hyogoku, 3-3-3",
+        "imageName": "BrownCoffee",
+        "coordinates": {
+            "latitude": 34.675372,
+            "longitude": 135.171969,
+        },
+    },
+]
