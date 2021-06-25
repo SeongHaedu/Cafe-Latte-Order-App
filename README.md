@@ -18,6 +18,14 @@
 
 https://user-images.githubusercontent.com/43167769/123214021-b1d2d500-d501-11eb-9fd2-93f9d1e4a0f5.mov
 
+# Contact me
+
+Please send an E-mail for me and check my website "K.Code" if you want to learn how this app is made using SwiftUI.
+
+## K.Code
+
+* https://seonghaedu.github.io/K.Code/
+
 # Author
  
 * Kaito Narimoto
